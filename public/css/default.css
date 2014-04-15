@@ -1,0 +1,6 @@
+body nav~.container { margin-top: 125px; }
+body #result .alert { position: absolute; float: left; width: 100%; top: 55px; }
+.event-date .date, .announcement-pubdate .date { font-family: 'Roboto Condensed',sans-serif; font-size: 34px; font-style: normal; font-weight: 700; margin-bottom: 0px; display: block; margin-top: 2px; }
+.event-date .month, .event-date .year, .announcement-pubdate .month { font-size: 12px; font-weight: 700; letter-spacing: 1px; color: #999; display: block; margin-top: -11px; margin-left: 7px; }
+.event-detail h4 { font-family: 'Roboto',sans-serif; text-transform: none; font-weight: 400; letter-spacing: 0px; margin-bottom: 0px; }
+.square img { width: 100px; }
